@@ -1,0 +1,8 @@
+{
+  "name": "dependabot-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash.merge": "4.6.0",
+    "lodash.merge": "3.5.1"
+  }
+}
